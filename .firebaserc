@@ -1,6 +1,5 @@
 {
   "projects": {
-    "default": "internet-archive",
-    "firstone": "firstone-fe7c6"
+    "default": "internet-archive"
   }
 }
